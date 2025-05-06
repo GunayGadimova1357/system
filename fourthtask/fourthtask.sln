@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fourthtask", "fourthtask\fourthtask.csproj", "{3DFD2A55-CD72-47EF-AADA-447539EB88F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildApp", "ChildApp\ChildApp.csproj", "{68A86C23-AC73-45B6-BF4F-717D8CF66E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DFD2A55-CD72-47EF-AADA-447539EB88F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFD2A55-CD72-47EF-AADA-447539EB88F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFD2A55-CD72-47EF-AADA-447539EB88F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFD2A55-CD72-47EF-AADA-447539EB88F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A86C23-AC73-45B6-BF4F-717D8CF66E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A86C23-AC73-45B6-BF4F-717D8CF66E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A86C23-AC73-45B6-BF4F-717D8CF66E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A86C23-AC73-45B6-BF4F-717D8CF66E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
