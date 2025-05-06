@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thirdtask", "thirdtask\thirdtask.csproj", "{8DEB9A9D-20B9-43AC-8D42-F383D244972C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildApp", "ChildApp\ChildApp.csproj", "{0B49A18A-F8FE-4945-9932-9495657231BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEB9A9D-20B9-43AC-8D42-F383D244972C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEB9A9D-20B9-43AC-8D42-F383D244972C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEB9A9D-20B9-43AC-8D42-F383D244972C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEB9A9D-20B9-43AC-8D42-F383D244972C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B49A18A-F8FE-4945-9932-9495657231BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B49A18A-F8FE-4945-9932-9495657231BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B49A18A-F8FE-4945-9932-9495657231BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B49A18A-F8FE-4945-9932-9495657231BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
